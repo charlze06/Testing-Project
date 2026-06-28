@@ -4,8 +4,8 @@ import './App.css'
 
 const categories = [
   {
-    id: 'science',
-    name: 'Science',
+    id: 'Tayo',
+    name: 'Tayo Langs',
     iconBg: '#facc15',
     icon: (
       <svg viewBox="0 0 24 24" aria-hidden="true">

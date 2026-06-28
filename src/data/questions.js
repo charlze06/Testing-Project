@@ -2,7 +2,7 @@ export const questions = {
   science: [
     {
       question: 'Tuwing Kelan ang Monthsarry Naten??',
-      options: ['28', '100', '30', '25'],
+      options: ['100', '28', '30', '25'],
       answer: 1,
     },
     {
