@@ -1,23 +1,23 @@
 export const questions = {
   science: [
     {
-      question: 'What planet is known as the Red Planet?',
-      options: ['Venus', 'Mars', 'Jupiter', 'Saturn'],
+      question: 'Tuwing Kelan ang Monthsarry Naten??',
+      options: ['28', '100', '30', '25'],
       answer: 1,
     },
     {
-      question: 'What gas do plants absorb from the atmosphere?',
-      options: ['Oxygen', 'Nitrogen', 'Carbon dioxide', 'Hydrogen'],
+      question: 'Lab mo ba ako??',
+      options: ['Hindi', 'Slight lang', 'Sofer Lab', 'No'],
       answer: 2,
     },
     {
-      question: 'What is the chemical symbol for water?',
-      options: ['O2', 'CO2', 'H2O', 'NaCl'],
+      question: 'Ano ang recent na binigay ko sayong accesorries??',
+      options: ['Necklace', 'Hikaw', 'Bracelet', 'Singsing'],
       answer: 2,
     },
     {
-      question: 'Which organ pumps blood through the body?',
-      options: ['Brain', 'Lungs', 'Heart', 'Liver'],
+      question: 'Ano ang favorite food ko??',
+      options: ['Brain', 'Lungs', 'Pork Steak', 'Liver'],
       answer: 2,
     },
     {
