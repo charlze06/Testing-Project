@@ -4,7 +4,7 @@ import './App.css'
 
 const categories = [
   {
-    id: 'Tayo',
+    id: 'science',
     name: 'Tayo Langs',
     iconBg: '#facc15',
     icon: (
